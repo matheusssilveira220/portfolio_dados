@@ -13,14 +13,21 @@ Projeto voltado para analisar as mudanças dentro do programa do governo.
 ### Ferrramentas
 
 -*PostgreSQL*
+
 -*Python*
+
 -*Pandas*
+
 -*PowerBI*
+
 
 ### Skills utilizadas
 
 -*Limpeza de dados*
+
 -*Tratamento dos dados*
+
 -*Implementação de BD*
+
 -*Extração de dados do BD*
 
