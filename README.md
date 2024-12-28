@@ -6,7 +6,7 @@ Seja bem-vindo ao meu portfólio de dados. Sou um profissional em evolução den
 
 Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. Cada um possui sua descrição e detalhamento do processo.
 
-## :open_book: FIES
+## :open_book: (FIES)[https://github.com/Pakcro/portfolio_dados_fies] 
 
 Projeto voltado para analisar as mudanças dentro do programa do governo. 
 
