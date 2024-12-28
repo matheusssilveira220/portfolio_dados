@@ -1,5 +1,26 @@
-# Portfólio
+# :wave: Sobre
 
-Olá, seja bem vindo ao meu portfólio profissional, voltado para a área de análise de dados. Pretendo estar sempre incluindo novos projetos como atualizando os já presentes.
+Seja bem-vindo ao meu portfólio de dados. Sou um profissional em evolução dentro da área de dados, aqui você encontrara alguns de meus projetos, podendo ter uma noção quanto aos meus conhecimentos sobre Business Inteligence e Data Analisys.
 
-Espero que goste.
+# :writing_hand: Projetos
+
+Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. Cada um possui sua descrição e detalhamento do processo.
+
+## :open_book: FIES
+
+Projeto voltado para analisar as mudanças dentro do programa do governo. 
+
+### Ferrramentas
+
+-*PostgreSQL*
+-*Python*
+-*Pandas*
+-*PowerBI*
+
+### Skills utilizadas
+
+-*Limpeza de dados*
+-*Tratamento dos dados*
+-*Implementação de BD*
+-*Extração de dados do BD*
+
