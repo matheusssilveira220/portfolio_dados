@@ -12,8 +12,6 @@ Projeto voltado para analisar as mudanças dentro do programa do governo.
 
 ### Ferrramentas
 
--*PostgreSQL*
-
 -*Python*
 
 -*Pandas*
@@ -26,8 +24,3 @@ Projeto voltado para analisar as mudanças dentro do programa do governo.
 -*Limpeza de dados*
 
 -*Tratamento dos dados*
-
--*Implementação de BD*
-
--*Extração de dados do BD*
-
