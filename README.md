@@ -16,8 +16,6 @@ Projeto voltado a entender as alterações nos números de inscritos e de vagas 
 
 -**Pandas**
 
--*Pandas_Profiling
-
 -**Matplotlib**
 
 -**Anaconda**
