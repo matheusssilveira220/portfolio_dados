@@ -1,6 +1,6 @@
 # :wave: Sobre
 
-Seja bem-vindo ao meu portfólio de dados. Sou um profissional em evolução dentro da área de dados, aqui você encontrara alguns de meus projetos, podendo ter uma noção quanto aos meus conhecimentos sobre Business Inteligence e Data Analisys.
+Seja bem-vindo ao meu portfólio de dados. Aqui você encontrara alguns de meus projetos, podendo ter uma noção quanto aos meus conhecimentos sobre Business Inteligence e Data Analisys.
 
 # :writing_hand: Projetos
 
