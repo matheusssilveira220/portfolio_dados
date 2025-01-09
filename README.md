@@ -36,3 +36,30 @@ Projeto voltado a entender as alterações nos números de inscritos e de vagas 
 
 -**Data Storytelling**
 
+## :money_with_wings: [VAREJO(Em andamento)](https://github.com/Pakcro/portfolio_dados_varejo)
+
+Projeto voltado a simulação de uma loja varejista, onde foi criado um BD utilizando PostgreSQL.
+
+### :wrench: Ferrramentas
+
+-**PostgreSQL**
+
+-**SQL**
+
+-**PowerBI**
+
+
+### :memo: Skills utilizadas
+
+-**Criação Banco de Dados**
+
+-**Criação Aleatória de Informações**
+
+-**Criações de Queryes**
+
+-**Importação de Dados ao PowerBI**
+
+-**Data visualization**
+
+-**Data Storytelling**
+
