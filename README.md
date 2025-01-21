@@ -55,11 +55,11 @@ Projeto voltado a simulação de uma loja varejista, onde foi criado um BD utili
 
 -**Criação Aleatória de Informações**
 
--**Criações de Queryes**
+-**Criações de Queries**
 
 -**Importação de Dados ao PowerBI**
 
--**Data visualization**
+-**Data Visualization**
 
 -**Data Storytelling**
 
