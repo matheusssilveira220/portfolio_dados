@@ -10,6 +10,8 @@ Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. C
 
 Projeto voltado a entender as alterações nos números de inscritos e de vagas disponibilizadas pelas universidades.
 
+Nesse projeto encontramos algumas mudanças nos números no passar dos anos, e as análises nos mostram o porque de tais mudanças.
+
 ### :wrench: Ferrramentas
 
 -**Python**
@@ -40,6 +42,8 @@ Projeto voltado a entender as alterações nos números de inscritos e de vagas 
 
 Projeto voltado a simulação de uma loja varejista, onde foi criado um BD utilizando PostgreSQL.
 
+Ideia principal simular a relação 1:1 entre analista e stakeholder, onde eu possa realizar a entrega de uma solicitação feita pelo tal.
+
 ### :wrench: Ferrramentas
 
 -**PostgreSQL**
@@ -55,7 +59,11 @@ Projeto voltado a simulação de uma loja varejista, onde foi criado um BD utili
 
 -**Criação Aleatória de Informações**
 
--**Criação de Queries**
+-**Queries**
+
+-**CTE**
+
+-**JOINS**
 
 -**Importação de Dados ao PowerBI**
 
