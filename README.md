@@ -38,19 +38,19 @@ Nesse projeto encontramos algumas mudanças nos números no passar dos anos, e a
 
 -**Data Storytelling**
 
-## :money_with_wings: [VAREJO(Em andamento)](https://github.com/matheusssilveira220/portfolio_dados_varejo)
+## :money_with_wings: [VAREJO](https://github.com/matheusssilveira220/portfolio_dados_varejo)
 
 Projeto voltado a simulação de uma loja varejista, onde foi criado um BD utilizando PostgreSQL.
 
 Ideia principal simular a relação 1:1 entre analista e stakeholder, onde eu possa realizar a entrega de uma solicitação feita pelo tal.
+
+Demostrar uso de CTEs dentro do SQL.
 
 ### :wrench: Ferrramentas
 
 -**PostgreSQL**
 
 -**SQL**
-
--**PowerBI**
 
 
 ### :memo: Skills utilizadas
@@ -64,10 +64,6 @@ Ideia principal simular a relação 1:1 entre analista e stakeholder, onde eu po
 -**CTE**
 
 -**JOINS**
-
--**Importação de Dados ao PowerBI**
-
--**Data Visualization**
 
 -**Data Storytelling**
 
