@@ -1,6 +1,12 @@
 # :wave: Sobre
 
-Seja bem-vindo ao meu portfólio de dados. Aqui você encontrara alguns de meus projetos, podendo ter uma noção quanto aos meus conhecimentos sobre Business Inteligence e Data Analisys.
+Seja bem-vindo ao meu portfólio de dados. 
+
+Me chamo Matheus Silveira da Silva, tenho 25 anos, e +5 de experiência com dados, principalmente voltados para a área financeira e bancaria.
+
+Aqui você encontrara alguns de meus projetos.
+
+Lembrando que esse portfólio é um trabalho em constante progressão, por tanto, todas as informações estarão devidamente atualizadas.
 
 # :writing_hand: Projetos
 
