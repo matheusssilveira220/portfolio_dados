@@ -6,6 +6,36 @@ Seja bem-vindo ao meu portfólio de dados. Aqui você encontrara alguns de meus 
 
 Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. Cada um possui sua descrição e detalhamento do processo.
 
+🚗 Toyota Prices
+
+Projeto focado na análise histórica do valor das ações da Toyota de 1980 a 2022, utilizando um Gráfico de Controle para identificar padrões de desempenho e apresentá-los em um dashboard interativo.
+
+🔧 Ferramentas
+
+-**Python**
+
+-**PostgreSQL**
+
+-**Power BI**
+
+-**Jupyter Notebook**
+
+### :memo: Skills utilizadas
+
+-**Coleta de dados via API**
+
+-**Análise exploratória de dados (EDA)**
+
+-**Tratamento de dados**
+
+-**Integração Python-SQL (SQLAlchemy)**
+
+-**Consultas SQL para análise**
+
+-**Criação de visualizações interativas no Power BI**
+
+-**Data Storytelling**
+
 ## :open_book: [FIES](https://github.com/Pakcro/portfolio_dados_fies)
 
 Projeto voltado a entender as alterações nos números de inscritos e de vagas disponibilizadas pelas universidades.
