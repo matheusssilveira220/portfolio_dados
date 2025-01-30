@@ -14,6 +14,12 @@ Projeto focado na análise histórica do valor das ações da Toyota de 1980 a 2
 
 -**Python**
 
+-**Pandas**
+
+-**Supabase**
+
+-**DBeaver**
+
 -**PostgreSQL**
 
 -**Power BI**
