@@ -10,7 +10,7 @@ Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. C
 
 Projeto focado na análise histórica do valor das ações da Toyota de 1980 a 2022, utilizando um Gráfico de Controle para identificar padrões de desempenho e apresentá-los em um dashboard interativo.
 
-🔧 Ferramentas
+## 🔧 Ferramentas
 
 -**Python**
 
