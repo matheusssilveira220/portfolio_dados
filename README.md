@@ -6,7 +6,7 @@ Seja bem-vindo ao meu portfólio de dados. Aqui você encontrara alguns de meus 
 
 Projetos desenvolvidos utilizando as ferramentas *Python*, *SQL* e *Power BI*. Cada um possui sua descrição e detalhamento do processo.
 
-🚗 Toyota Prices
+## 🚗 [Toyota Prices](https://github.com/matheusssilveira220/portfolio_dados_toyota)
 
 Projeto focado na análise histórica do valor das ações da Toyota de 1980 a 2022, utilizando um Gráfico de Controle para identificar padrões de desempenho e apresentá-los em um dashboard interativo.
 
