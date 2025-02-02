@@ -6,7 +6,7 @@ Me chamo Matheus Silveira da Silva, tenho 25 anos, e +5 de experiência com dado
 
 Aqui você encontrará alguns de meus projetos.
 
-Lembrando que esse portfólio é um trabalho em constante progressão, por tanto, todas as informações estarão devidamente atualizadas.
+Lembrando que esse portfólio é um trabalho em constante progressão, portanto, todas as informações estarão devidamente atualizadas.
 
 # :writing_hand: Projetos
 
