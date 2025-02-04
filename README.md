@@ -108,4 +108,3 @@ Demostrar uso de CTEs dentro do SQL.
 -**JOINS**
 
 -**Data Storytelling**
-
